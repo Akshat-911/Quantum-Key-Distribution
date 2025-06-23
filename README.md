@@ -1,5 +1,5 @@
 # Quantum-Key-Distribution
-The BB84 protocol is one of the most famous Quantum Key Distribution algorithm developed by  Charles Bennett and Gilles Brassard in 1984(hence the name BB84) and is used to securely share a private key from one party top another using the principles of Quantum mechanics like superposition, teleportation, the no cloning theorem etc.
+The BB84 protocol is one of the most famous Quantum Key Distribution algorithm developed by  Charles Bennett and Gilles Brassard in 1984(hence the name BB84) and is used to securely share a private key from one party to another using the principles of Quantum mechanics like superposition, teleportation, the no cloning theorem etc.
 
 HERE IS A SMALL OVERVIEW OF THE BB84 PROTOCOL
 

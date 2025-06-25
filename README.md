@@ -114,3 +114,8 @@ This project is for educational and demonstration purposes only. MIT License.
 - [BB84 Protocol – Wikipedia](https://en.wikipedia.org/wiki/BB84)
 - [Qiskit Documentation](https://qiskit.org/documentation/)
 - [Quantum Key Distribution – IBM Qiskit Tutorials](https://qiskit.org/textbook/ch-algorithms/quantum-key-distribution.html)
+- ![image](https://github.com/user-attachments/assets/9fb291ea-49ba-42c9-ab91-41a0189766a9)
+- ![image](https://github.com/user-attachments/assets/b9ca04b6-ebcb-44a6-8489-c4b26d3c78d1)
+
+
+- 
